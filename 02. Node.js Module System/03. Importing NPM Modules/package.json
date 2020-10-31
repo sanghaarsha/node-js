@@ -1,0 +1,14 @@
+{
+  "name": "importing-npm-modules",
+  "version": "1.0.0",
+  "description": "Learinig to initialize npm and import modules from it.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No test command given.\" && exit 1"
+  },
+  "author": "John Doe",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
