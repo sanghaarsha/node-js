@@ -1,0 +1,10 @@
+Step 1: Initialize
+> npm init
+
+Step 2: Fill in details as you like.
+
+What are package and lock files?
+> Package file contains details of all the NPM packages installed. Lock files verifies your file is authentic.
+
+Why package.json file is needed?
+> It tracks installed NPM packages, its version and you don't need to copy packages around of you have package.json file. Simple 'npm install' command will download and install all the required dependencies.

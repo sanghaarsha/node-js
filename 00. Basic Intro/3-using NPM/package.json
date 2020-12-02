@@ -1,0 +1,15 @@
+{
+  "name": "superhero-project",
+  "version": "1.0.0",
+  "description": "Intro to NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanghaarsha",
+  "license": "MIT",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
